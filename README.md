@@ -1,4 +1,4 @@
-# Reactor Netty
+# Reactor Netty2
 
 [![Join the chat at https://gitter.im/reactor/reactor-netty](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/reactor/reactor-netty)
 
